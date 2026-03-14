@@ -107,7 +107,7 @@ body {
     min-height: 76vh;
     display: grid;
     align-items: center;
-    background: url("../assets/photos/Porsche back.jpg") center/cover no-repeat;
+    background: url("../../Photos/Porsche back.jpg") center/cover no-repeat;
     isolation: isolate;
 }
 
